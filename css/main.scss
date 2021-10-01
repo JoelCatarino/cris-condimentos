@@ -1,0 +1,16 @@
+$text-color: orange;
+
+* {
+    font-family: 'Bonheur Royale', cursive;
+    background-color: #6c584c;
+}
+
+button {
+    font-size: 2.2em;
+    border-radius: 5px;
+    color: $text-color;
+}
+
+body {
+    color: $text-color;
+}
