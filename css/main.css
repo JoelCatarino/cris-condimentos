@@ -1,15 +1,28 @@
 * {
   font-family: 'Bonheur Royale', cursive;
-  background-color: #6c584c;
+  background-color: #fed9b7;
 }
 
-button {
-  font-size: 2.2em;
-  border-radius: 5px;
-  color: orange;
+.logo a {
+  width: 500px;
+  height: 500px;
+  float: left;
+  background: url(../src/assets/img/logo.png) no-repeat;
+  font-size: 0;
 }
 
-body {
-  color: orange;
+li a {
+  border: 1px solid #000;
+  border-radius: 10px;
+  font-size: 13px;
+  margin-right: 7px;
+}
+
+input {
+  border: 1px solid #000;
+  border-radius: 10px;
+  height: 35px;
+  font-size: 15px;
+  padding-left: 7px;
 }
 /*# sourceMappingURL=main.css.map */
